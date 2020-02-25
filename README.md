@@ -25,3 +25,8 @@
 - 그외의 버그 수정
 - 대화방을 선택 안하고 입장을 클릭시 메시지 출력
 - GUI
+
+## 2. 구현 결과
+![채팅방들어있는사람목록](https://user-images.githubusercontent.com/58617250/75232980-77690300-57fb-11ea-847d-89f64906c51b.PNG)
+![채팅방이 선택안하고 입장을 눌렀을 시](https://user-images.githubusercontent.com/58617250/75232984-78019980-57fb-11ea-9e95-5e60a7aec746.PNG)
+![캡처](https://user-images.githubusercontent.com/58617250/75233094-a5e6de00-57fb-11ea-8ddd-dfdfd351f059.PNG)
